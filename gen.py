@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n=int(input())
 l=list(map(int(),input().split()))
 m=max(l)
@@ -10,4 +11,6 @@ for i in range (n):
         mip=i
 
 
+=======
+>>>>>>> parent of 21d4efd (Some more changes)
 
